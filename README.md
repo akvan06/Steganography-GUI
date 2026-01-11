@@ -1,8 +1,6 @@
 # Steganography-GUI
 
-**Username:** RiyazShaik27<br>
-**Name:** Shaik Riyaz <br>
-**Email:** shaikriyaz11011@gmail.com<br>
+
 **Repository:** Steganography-GUI <br>
 ---
 **Table of Contents**
@@ -41,7 +39,7 @@ pip package manager
 **Installation**
 **Clone the repository:**
 
-git clone https://github.com/RiyazShaik27/Steganography-GUI.git
+git clone https://github.com/akvan06/Steganography-GUI.git
 
 Navigate to the project directory: Steganography-GUI
 
