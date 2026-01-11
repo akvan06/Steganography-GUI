@@ -39,7 +39,7 @@ pip package manager
 **Installation**
 **Clone the repository:**
 
-git clone https://github.com/RiyazShaik27/Steganography-GUI.git
+git clone https://github.com/akvan06/Steganography-GUI.git
 
 Navigate to the project directory: Steganography-GUI
 
